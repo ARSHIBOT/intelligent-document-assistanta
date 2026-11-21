@@ -1,4 +1,11 @@
-fastapi[standard]
+fastapi
+uvicorn[standard]
+PyMuPDF
+langchain
+langchain-text-splitters
+sentence-transformers
+chromadb
+groq
+python-multipart
 pydantic-settings
 python-dotenv
-PyMuPDF
